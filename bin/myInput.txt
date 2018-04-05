@@ -1,0 +1,9 @@
+John, Doe, 21 Apr 1979, 120, 192 
+George, Dallas, 03 Mar 1960, 112, 182 
+Jim, Dawn, 14 Jun 1965, 90, 181 
+Michelle, Dame, 06 Jun 1970, 121, 175 
+Allan, Walker, 06 Jul 1979, 150, 170 
+Bill, White, 27 May 1980, 70, 165 
+Sonya, Goldsworth, 11 Aug 1962, 75, 192 
+Lisa, Smith, 12 Sep 1977, 105, 190 
+Lindsey, Smith, 14 Dec 1982, 103, 185

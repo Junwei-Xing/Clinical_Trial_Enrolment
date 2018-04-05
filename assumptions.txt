@@ -1,0 +1,5 @@
+There are several assumptions considered in this program:
+
+1. the input format is always correct; it is completely based on what the instruction describes.
+
+2. this program doesn't link with a database, so assume that all input data should be kept within myInput.txt.
